@@ -14,7 +14,6 @@ body {
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
 .button {
@@ -29,13 +28,13 @@ body {
   font-weight: bold;
 }
 
-div.text {
+.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
 }
 
-div.child {
+.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
