@@ -1,6 +1,21 @@
-.header  {
+.header {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header div {
+  display: flex;
+}
+
+.header div ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 0;
 }
 
 .logo {
@@ -9,6 +24,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: auto;
 }
 
 ul {
